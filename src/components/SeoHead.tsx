@@ -1,6 +1,7 @@
 import { useEffect } from "react";
 import { PageRoute, BlogPost, CustomPage, SupportedLanguage } from "../types";
 import { t } from "../data/translations";
+import { HOME_ARTICLE_FAQS } from "./HomeArticle";
 
 interface SeoHeadProps {
   page: PageRoute;
@@ -185,18 +186,48 @@ export function SeoHead({ page, post, customPage, customTitle, customDescription
         ["faq.q7", "faq.a7"],
         ["faq.q8", "faq.a8"],
       ];
+      const mainEntity = faqPairs.map(([qk, ak]) => ({
+        "@type": "Question",
+        "name": t(qk, lang),
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": t(ak, lang)
+        }
+      }));
+      // Long-form article FAQs (rendered on the homepage for English only)
+      if (lang === "en") {
+        for (const f of HOME_ARTICLE_FAQS) {
+          mainEntity.push({
+            "@type": "Question",
+            "name": f.question,
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": f.answer
+            }
+          });
+        }
+      }
       schemaGraph.push({
         "@context": "https://schema.org",
         "@type": "FAQPage",
-        "mainEntity": faqPairs.map(([qk, ak]) => ({
-          "@type": "Question",
-          "name": t(qk, lang),
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": t(ak, lang)
-          }
-        }))
+        "mainEntity": mainEntity
       });
+      // Article schema for the long-form homepage guide (English only)
+      if (lang === "en") {
+        schemaGraph.push({
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "headline": "Scribd Downloader: The Complete Guide to Saving Scribd Documents",
+          "description": "A complete guide to the free Scribd downloader: what it is, how to save Scribd documents as PDF in 3 steps, supported formats and devices, legality, and fixes for common problems.",
+          "image": "/images/home-download-guide.jpg",
+          "datePublished": "2026-09-17",
+          "dateModified": "2026-09-17",
+          "author": {
+            "@type": "Organization",
+            "name": "Scribd Downloader"
+          }
+        });
+      }
       schemaGraph.push({
         "@context": "https://schema.org",
         "@type": "HowTo",
