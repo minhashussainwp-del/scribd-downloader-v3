@@ -1,0 +1,323 @@
+type,slug,locale,seo_title,article_md_path,images_zip_path
+blog,como-baixar-documentos-do-scribd-em-pdf,br,Como Baixar Documentos do Scribd em PDF — Guia Fácil,./02-blogs/b2-post1-locales/post-1-br/article.md,./02-blogs/b2-post1-locales/post-1-br/post-1-br-images.zip
+blog,como-ler-documentos-do-scribd-no-kindle,br,Como Ler Documentos do Scribd no Kindle (Guia 2026),./02-blogs/b4-kindle-locales/kindle-br/article.md,./02-blogs/b4-kindle-locales/kindle-br/kindle-br-images.zip
+blog,como-visualizar-um-pdf-antes-de-baixar,br,Visualizar PDF Antes de Baixar: Dicas de Leitura Segura,./02-blogs/b3-post2-locales/post-2-br/article.md,./02-blogs/b3-post2-locales/post-2-br/post-2-br-images.zip
+blog,pdf-vorschau-vor-dem-herunterladen,de,PDF-Vorschau Vor dem Download: Sicher Prüfen & Lesen,./02-blogs/b3-post2-locales/post-2-de/article.md,./02-blogs/b3-post2-locales/post-2-de/post-2-de-images.zip
+blog,scribd-dokumente-als-pdf-herunterladen,de,Scribd-Dokumente als PDF herunterladen: Anleitung,./02-blogs/b2-post1-locales/post-1-de/article.md,./02-blogs/b2-post1-locales/post-1-de/post-1-de-images.zip
+blog,scribd-dokumente-auf-kindle-lesen,de,Scribd-Dokumente auf dem Kindle lesen (Anleitung 2026),./02-blogs/b4-kindle-locales/kindle-de/article.md,./02-blogs/b4-kindle-locales/kindle-de/kindle-de-images.zip
+blog,/blog/how-to-download-scribd-documents,en,How to Download Scribd Documents as PDF — Full Guide,./02-blogs/b1-en/how-to-download-scribd-documents/article.md,./02-blogs/b1-en/how-to-download-scribd-documents/how-to-download-scribd-documents-images.zip
+blog,/blog/preview-pdf-before-downloading,en,Preview a PDF Before Downloading: A Safety Checklist,./02-blogs/b1-en/preview-pdf-before-downloading/article.md,./02-blogs/b1-en/preview-pdf-before-downloading/preview-pdf-before-downloading-images.zip
+blog,/blog/read-academic-papers-offline,en,"Read Academic Papers Offline: Devices, Setup & Workflow",./02-blogs/b1-en/read-academic-papers-offline/article.md,./02-blogs/b1-en/read-academic-papers-offline/read-academic-papers-offline-images.zip
+blog,/blog/read-scribd-on-kindle,en,How to Read Scribd Documents on a Kindle (2026 Guide),./02-blogs/b1-en/read-scribd-on-kindle/article.md,./02-blogs/b1-en/read-scribd-on-kindle/read-scribd-on-kindle-images.zip
+blog,/blog/scribd-pdf-formatting-issues,en,Scribd PDF Formatting Issues: Causes & Fixes That Work,./02-blogs/b1-en/scribd-pdf-formatting-issues/article.md,./02-blogs/b1-en/scribd-pdf-formatting-issues/scribd-pdf-formatting-issues-images.zip
+blog,como-descargar-documentos-de-scribd-en-pdf,es,Cómo Descargar Documentos de Scribd en PDF: Guía,./02-blogs/b2-post1-locales/post-1-es/article.md,./02-blogs/b2-post1-locales/post-1-es/post-1-es-images.zip
+blog,como-leer-documentos-de-scribd-en-kindle,es,Cómo Leer Documentos de Scribd en Kindle (Guía 2026),./02-blogs/b4-kindle-locales/kindle-es/article.md,./02-blogs/b4-kindle-locales/kindle-es/kindle-es-images.zip
+blog,como-previsualizar-un-pdf-antes-de-descargar,es,Previsualizar PDF Antes de Descargar: Lectura Segura,./02-blogs/b3-post2-locales/post-2-es/article.md,./02-blogs/b3-post2-locales/post-2-es/post-2-es-images.zip
+blog,comment-lire-documents-scribd-sur-kindle,fr,Lire des Documents Scribd sur Kindle (Guide 2026),./02-blogs/b4-kindle-locales/kindle-fr/article.md,./02-blogs/b4-kindle-locales/kindle-fr/kindle-fr-images.zip
+blog,comment-previsualiser-un-pdf-avant-de-telecharger,fr,Prévisualiser un PDF Avant de Télécharger : Conseils,./02-blogs/b3-post2-locales/post-2-fr/article.md,./02-blogs/b3-post2-locales/post-2-fr/post-2-fr-images.zip
+blog,comment-telecharger-des-documents-scribd-en-pdf,fr,Télécharger un Document Scribd en PDF : Guide Simple,./02-blogs/b2-post1-locales/post-1-fr/article.md,./02-blogs/b2-post1-locales/post-1-fr/post-1-fr-images.zip
+blog,cara-melihat-pratinjau-pdf-sebelum-mengunduh,id,Pratinjau PDF Sebelum Unduh: Cara Baca yang Aman,./02-blogs/b3-post2-locales/post-2-id/article.md,./02-blogs/b3-post2-locales/post-2-id/post-2-id-images.zip
+blog,cara-membaca-dokumen-scribd-di-kindle,id,Cara Membaca Dokumen Scribd di Kindle (Panduan 2026),./02-blogs/b4-kindle-locales/kindle-id/article.md,./02-blogs/b4-kindle-locales/kindle-id/kindle-id-images.zip
+blog,cara-mengunduh-dokumen-scribd-menjadi-pdf,id,Cara Download Dokumen Scribd Jadi PDF (Gratis),./02-blogs/b2-post1-locales/post-1-id/article.md,./02-blogs/b2-post1-locales/post-1-id/post-1-id-images.zip
+homepage,/`,en,"Free Scribd Downloader — Save Scribd Documents as PDF, No Login",./01-homepage/article.md,./01-homepage/homepage-images.zip
+landing-page,/android,en,Download Scribd Documents on Android — No App Needed,./03-landing/l3-devices/android/article.md,./03-landing/l3-devices/android/android-images.zip
+landing-page,/apk,en,Scribd Downloader APK: Asli Sach Aur Safe Tareeka,./03-landing/l9-misc/apk/article.md,./03-landing/l9-misc/apk/apk-images.zip
+landing-page,/app,en,Application Scribd Downloader : En Avez-Vous Besoin ?,./03-landing/l9-misc/app/article.md,./03-landing/l9-misc/app/app-images.zip
+landing-page,/apuntes,en,Descargar Apuntes de Scribd Gratis — Guía en PDF,./03-landing/l7-academic-b/apuntes/article.md,./03-landing/l7-academic-b/apuntes/apuntes-images.zip
+landing-page,/bot-telegram,en,Bot Telegram Scribd : Comment Ça Marche et Quoi Surveiller,./03-landing/l9-misc/bot-telegram/article.md,./03-landing/l9-misc/bot-telegram/bot-telegram-images.zip
+landing-page,/cours,en,Télécharger un Cours Scribd en PDF Gratuit — Guide,./03-landing/l7-academic-b/cours/article.md,./03-landing/l7-academic-b/cours/cours-images.zip
+landing-page,/desktop,en,"Download Scribd Documents on Desktop — Windows, Mac, Linux",./03-landing/l3-devices/desktop/article.md,./03-landing/l3-devices/desktop/desktop-images.zip
+landing-page,/examenes,en,Descargar Exámenes de Scribd Gratis — Practica en PDF,./03-landing/l7-academic-b/examenes/article.md,./03-landing/l7-academic-b/examenes/examenes-images.zip
+landing-page,/extension,en,Scribd Downloader Chrome Extension: Do You Need One?,./03-landing/l9-misc/extension/article.md,./03-landing/l9-misc/extension/extension-images.zip
+landing-page,/iphone,en,Download Scribd Documents on iPhone — No App Needed,./03-landing/l3-devices/iphone/article.md,./03-landing/l3-devices/iphone/iphone-images.zip
+landing-page,/jurnal,en,Cara Download Jurnal di Scribd Gratis — PDF Tanpa Login,./03-landing/l6-academic-a/jurnal/article.md,./03-landing/l6-academic-a/jurnal/jurnal-images.zip
+landing-page,/makalah,en,Cara Download Makalah di Scribd Gratis — PDF Tanpa Login,./03-landing/l6-academic-a/makalah/article.md,./03-landing/l6-academic-a/makalah/makalah-images.zip
+landing-page,/manuales,en,Descargar Manuales de Scribd en PDF Gratis — Guía,./03-landing/l7-academic-b/manuales/article.md,./03-landing/l7-academic-b/manuales/manuales-images.zip
+landing-page,/memoire,en,Télécharger un Mémoire sur Scribd Gratuit — PDF Complet,./03-landing/l6-academic-a/memoire/article.md,./03-landing/l6-academic-a/memoire/memoire-images.zip
+landing-page,/ncert-books,en,Scribd Se NCERT Book PDF Download — Free Guide (2026),./03-landing/l7-academic-b/ncert-books/article.md,./03-landing/l7-academic-b/ncert-books/ncert-books-images.zip
+landing-page,/research-papers,en,"Download Research Papers from Scribd Free — PDF, No Login",./03-landing/l6-academic-a/research-papers/article.md,./03-landing/l6-academic-a/research-papers/research-papers-images.zip
+landing-page,/sans-carte,en,Scribd Sans Carte Bancaire : Télécharger Gratuitement en PDF,./03-landing/l9-misc/sans-carte/article.md,./03-landing/l9-misc/sans-carte/sans-carte-images.zip
+landing-page,/skripsi,en,Cara Download Skripsi di Scribd Gratis — Simpan PDF Lengkap,./03-landing/l6-academic-a/skripsi/article.md,./03-landing/l6-academic-a/skripsi/skripsi-images.zip
+landing-page,/telegram-bot,en,Scribd Telegram Bot: How They Work & What to Watch For,./03-landing/l9-misc/telegram-bot/article.md,./03-landing/l9-misc/telegram-bot/telegram-bot-images.zip
+landing-page,/tesis,en,Descargar Tesis de Scribd Gratis — Guarda el PDF Completo,./03-landing/l6-academic-a/tesis/article.md,./03-landing/l6-academic-a/tesis/tesis-images.zip
+landing-page,/thesis,en,Download a Thesis from Scribd Free — Save the Full PDF,./03-landing/l6-academic-a/thesis/article.md,./03-landing/l6-academic-a/thesis/thesis-images.zip
+landing-page,/upsc-notes,en,Scribd Se UPSC Notes Download Kaise Kare — Free PDF Guide,./03-landing/l7-academic-b/upsc-notes/article.md,./03-landing/l7-academic-b/upsc-notes/upsc-notes-images.zip
+landing-page,/windows,en,Scribd Downloader for Windows: Bina Install Ke Kaise Karein,./03-landing/l9-misc/windows/article.md,./03-landing/l9-misc/windows/windows-images.zip
+landing-page,alternatif,en,Alternatif Scribd Downloader — Bandingkan yang Gratis & Berbayar,./03-landing/l2-alternatives/alternatif/article.md,./03-landing/l2-alternatives/alternatif/alternatif-images.zip
+landing-page,alternativas,en,Alternativas a Scribd Downloader — Compara Gratis y de Pago,./03-landing/l2-alternatives/alternativas/article.md,./03-landing/l2-alternatives/alternativas/alternativas-images.zip
+landing-page,alternatives,en,Scribd Downloader Alternatives — Compare Free & Paid Options,./03-landing/l2-alternatives/alternatives/article.md,./03-landing/l2-alternatives/alternatives/alternatives-images.zip
+landing-page,books,en,Scribd Par Books: Preview Download Aur Padhne Ka Guide,./03-landing/l4-formats-a/books/article.md,./03-landing/l4-formats-a/books/books-images.zip
+landing-page,cancel-scribd,en,"How to Cancel Your Scribd Subscription: Web, iPhone & Android",./03-landing/l8-trust/cancel-scribd/article.md,./03-landing/l8-trust/cancel-scribd/cancel-scribd-images.zip
+landing-page,cara-mengatasi-scribd-downloader-error`,en,Cara Mengatasi Scribd Downloader Error: 7 Perbaikan Ampuh,./03-landing/l1-troubleshoot/cara-mengatasi-scribd-downloader-error/article.md,./03-landing/l1-troubleshoot/cara-mengatasi-scribd-downloader-error/cara-mengatasi-scribd-downloader-error-images.zip
+landing-page,convertir-pdf,en,Convertir un Document Scribd en PDF Gratuitement : Guide,./03-landing/l4-formats-a/convertir-pdf/article.md,./03-landing/l4-formats-a/convertir-pdf/convertir-pdf-images.zip
+landing-page,descargador-de-scribd-no-funciona`,en,Descargador de Scribd No Funciona: 7 Soluciones Que Sirven,./03-landing/l1-troubleshoot/descargador-de-scribd-no-funciona/article.md,./03-landing/l1-troubleshoot/descargador-de-scribd-no-funciona/descargador-de-scribd-no-funciona-images.zip
+landing-page,descargar-script,en,Script para Descargar de Scribd: Lo que Debes Saber,./03-landing/l2-alternatives/descargar-script/article.md,./03-landing/l2-alternatives/descargar-script/descargar-script-images.zip
+landing-page,dmca,en,DMCA Takedown Policy: How to File a Copyright Notice,./03-landing/l8-trust/dmca/article.md,./03-landing/l8-trust/dmca/dmca-images.zip
+landing-page,ebook,en,Scribd Se Ebook Download Kaise Kare: Free Guide Hindi Mein,./03-landing/l4-formats-a/ebook/article.md,./03-landing/l4-formats-a/ebook/ebook-images.zip
+landing-page,ebooks,en,"Download Scribd Ebooks Free: Find, Save, and Read Offline",./03-landing/l4-formats-a/ebooks/article.md,./03-landing/l4-formats-a/ebooks/ebooks-images.zip
+landing-page,epub,en,Scribd Document as EPUB: The Honest Free Method That Works,./03-landing/l4-formats-a/epub/article.md,./03-landing/l4-formats-a/epub/epub-images.zip
+landing-page,fair-use,en,Fair Use & Downloading Scribd Documents: Plain-Language Guide,./03-landing/l8-trust/fair-use/article.md,./03-landing/l8-trust/fair-use/fair-use-images.zip
+landing-page,faq,en,"Scribd Downloader FAQ: Cost, Formats, Devices & Safety",./03-landing/l8-trust/faq/article.md,./03-landing/l8-trust/faq/faq-images.zip
+landing-page,free-trial,en,Scribd Free Trial Explained: How It Works & the Free Alternative,./03-landing/l8-trust/free-trial/article.md,./03-landing/l8-trust/free-trial/free-trial-images.zip
+landing-page,libros-epub,en,Descargar Libros de Scribd en EPUB Gratis: Método Honesto,./03-landing/l4-formats-a/libros-epub/article.md,./03-landing/l4-formats-a/libros-epub/libros-epub-images.zip
+landing-page,partitions,en,Télécharger Partition Scribd en PDF — Guide Gratuit,./03-landing/l5-formats-b/partitions/article.md,./03-landing/l5-formats-b/partitions/partitions-images.zip
+landing-page,ppt,en,"What Is a PPT File? Open, Present & Edit Scribd Slides",./03-landing/l5-formats-b/ppt/article.md,./03-landing/l5-formats-b/ppt/ppt-images.zip
+landing-page,presentaciones,en,"Descargar Presentaciones de Scribd: Estudia, Imprime y Expón",./03-landing/l5-formats-b/presentaciones/article.md,./03-landing/l5-formats-b/presentaciones/presentaciones-images.zip
+landing-page,presentations,en,"Download Scribd Presentations: Study, Print and Present",./03-landing/l5-formats-b/presentations/article.md,./03-landing/l5-formats-b/presentations/presentations-images.zip
+landing-page,reddit,en,Scribd Downloader Reddit: The Questions People Actually Ask,./03-landing/l2-alternatives/reddit/article.md,./03-landing/l2-alternatives/reddit/reddit-images.zip
+landing-page,safety,en,Is This Scribd Downloader Safe? Honest Answer + Safety Checklist,./03-landing/l8-trust/safety/article.md,./03-landing/l8-trust/safety/safety-images.zip
+landing-page,scribd-downloader-kaam-nahi-kar-raha`,en,Scribd Downloader Kaam Nahi Kar Raha? 7 Asaan Fixes,./03-landing/l1-troubleshoot/scribd-downloader-kaam-nahi-kar-raha/article.md,./03-landing/l1-troubleshoot/scribd-downloader-kaam-nahi-kar-raha/scribd-downloader-kaam-nahi-kar-raha-images.zip
+landing-page,scribd-downloader-ne-fonctionne-plus`,en,Scribd Downloader Ne Fonctionne Plus ? 7 Solutions Efficaces,./03-landing/l1-troubleshoot/scribd-downloader-ne-fonctionne-plus/article.md,./03-landing/l1-troubleshoot/scribd-downloader-ne-fonctionne-plus/scribd-downloader-ne-fonctionne-plus-images.zip
+landing-page,scribd-downloader-not-working`,en,Scribd Downloader Not Working? 7 Fixes That Solve It,./03-landing/l1-troubleshoot/scribd-downloader-not-working/article.md,./03-landing/l1-troubleshoot/scribd-downloader-not-working/scribd-downloader-not-working-images.zip
+landing-page,sheet-music,en,Download Scribd Sheet Music as PDF — Free Score Guide,./03-landing/l5-formats-b/sheet-music/article.md,./03-landing/l5-formats-b/sheet-music/sheet-music-images.zip
+landing-page,slideshare-downloader,en,SlideShare Downloader — What Actually Works in 2026,./03-landing/l2-alternatives/slideshare-downloader/article.md,./03-landing/l2-alternatives/slideshare-downloader/slideshare-downloader-images.zip
+landing-page,studocu-downloader,en,StuDocu Downloader — The Honest Answer (2026),./03-landing/l2-alternatives/studocu-downloader/article.md,./03-landing/l2-alternatives/studocu-downloader/studocu-downloader-images.zip
+landing-page,/android-es,es,Descargar Documentos de Scribd en Android — Sin App,./03-landing/l3-devices/android-es/article.md,./03-landing/l3-devices/android-es/android-es-images.zip
+landing-page,/iphone-es,es,Descargar Documentos de Scribd en iPhone — Sin Instalar Nada,./03-landing/l3-devices/iphone-es/article.md,./03-landing/l3-devices/iphone-es/iphone-es-images.zip
+landing-page,safety-es,es,¿Es Seguro Descargar de Scribd Gratis? Respuesta Honesta + Lista,./03-landing/l8-trust/safety-es/article.md,./03-landing/l8-trust/safety-es/safety-es-images.zip
+landing-page,word-es,es,Cómo Pasar un Documento de Scribd a Word Gratis (2026),./03-landing/l4-formats-a/word-es/article.md,./03-landing/l4-formats-a/word-es/word-es-images.zip
+landing-page,/android-fr,fr,Télécharger des Documents Scribd sur Android — Sans App,./03-landing/l3-devices/android-fr/article.md,./03-landing/l3-devices/android-fr/android-fr-images.zip
+landing-page,/iphone-fr,fr,Télécharger des Documents Scribd sur iPhone — Sans App,./03-landing/l3-devices/iphone-fr/article.md,./03-landing/l3-devices/iphone-fr/iphone-fr-images.zip
+landing-page,alternatives-fr,fr,Alternative Dlscrib gratuite : comparatif des options,./03-landing/l2-alternatives/alternatives-fr/article.md,./03-landing/l2-alternatives/alternatives-fr/alternatives-fr-images.zip
+landing-page,presentations-fr,fr,"Télécharger Présentations Scribd : Réviser, Imprimer, Présenter",./03-landing/l5-formats-b/presentations-fr/article.md,./03-landing/l5-formats-b/presentations-fr/presentations-fr-images.zip
+landing-page,safety-fr,fr,Téléchargeur Scribd : Est-il Sûr ? Réponse Honnête + Checklist,./03-landing/l8-trust/safety-fr/article.md,./03-landing/l8-trust/safety-fr/safety-fr-images.zip
+landing-page,/android-hi,hi,Android Par Scribd Document Download — Bina App Ke,./03-landing/l3-devices/android-hi/article.md,./03-landing/l3-devices/android-hi/android-hi-images.zip
+landing-page,ppt-hi,hi,"PPT File Kya Hai? Scribd Slides Kholo, Present Karo, Edit Karo",./03-landing/l5-formats-b/ppt-hi/article.md,./03-landing/l5-formats-b/ppt-hi/ppt-hi-images.zip
+landing-page,safety-hi,hi,Kya Scribd Downloader Safe Hai? Honest Jawab + Safety Checklist,./03-landing/l8-trust/safety-hi/article.md,./03-landing/l8-trust/safety-hi/safety-hi-images.zip
+landing-page,word-hi,hi,Scribd Document Ko Word Mein Kaise Badlein: Free Guide,./03-landing/l4-formats-a/word-hi/article.md,./03-landing/l4-formats-a/word-hi/word-hi-images.zip
+landing-page,/android-id,id,Download Dokumen Scribd di Android — Tanpa Aplikasi,./03-landing/l3-devices/android-id/article.md,./03-landing/l3-devices/android-id/android-id-images.zip
+landing-page,/iphone-id,id,Download Dokumen Scribd di iPhone — Tanpa Aplikasi,./03-landing/l3-devices/iphone-id/article.md,./03-landing/l3-devices/iphone-id/iphone-id-images.zip
+landing-page,ppt-id,id,"Apa Itu File PPT? Buka, Presentasikan & Edit Slide Scribd",./03-landing/l5-formats-b/ppt-id/article.md,./03-landing/l5-formats-b/ppt-id/ppt-id-images.zip
+landing-page,safety-id,id,Apakah Download Scribd Gratis Aman? Jawaban Jujur + Checklist,./03-landing/l8-trust/safety-id/article.md,./03-landing/l8-trust/safety-id/safety-id-images.zip
+landing-page-locale,/`,br,"Baixar Scribd Grátis — Salve Documentos em PDF, Sem Login",./04-all-languages/w1-homepage/homepage-br/article.md,./04-all-languages/w1-homepage/homepage-br/homepage-br-images.zip
+landing-page-locale,/apk-br,br,Scribd Downloader APK: A Verdade e o Jeito Seguro,./04-all-languages/w4/apk-br/article.md,./04-all-languages/w4/apk-br/apk-br-images.zip
+landing-page-locale,/app-br,br,Aplicativo Scribd Downloader: Você Precisa de Um?,./04-all-languages/w4/app-br/article.md,./04-all-languages/w4/app-br/app-br-images.zip
+landing-page-locale,/apuntes-br,br,Como Baixar Apuntes de Estudo no Scribd — PDF Grátis,./04-all-languages/w8/apuntes-br/article.md,./04-all-languages/w8/apuntes-br/apuntes-br-images.zip
+landing-page-locale,/blog/post-3-br,br,Ler Artigos Acadêmicos Offline: Dispositivos e Rotina,./04-all-languages/w2-blogs/post-3-br/article.md,./04-all-languages/w2-blogs/post-3-br/post-3-br-images.zip
+landing-page-locale,/blog/post-4-br,br,PDF do Scribd com Problemas de Formatação? Causas e Soluções,./04-all-languages/w2-blogs/post-4-br/article.md,./04-all-languages/w2-blogs/post-4-br/post-4-br-images.zip
+landing-page-locale,/cours-br,br,Como Baixar Cours de Aula no Scribd — PDF Grátis,./04-all-languages/w8/cours-br/article.md,./04-all-languages/w8/cours-br/cours-br-images.zip
+landing-page-locale,/desktop-br,br,Scribd Downloader Desktop: Guia para Computador,./04-all-languages/w4/desktop-br/article.md,./04-all-languages/w4/desktop-br/desktop-br-images.zip
+landing-page-locale,/examenes-br,br,Como Baixar Exámenes de Provas no Scribd — PDF Grátis,./04-all-languages/w8/examenes-br/article.md,./04-all-languages/w8/examenes-br/examenes-br-images.zip
+landing-page-locale,/extension-br,br,Extensão Scribd Downloader Chrome: Precisa?,./04-all-languages/w4/extension-br/article.md,./04-all-languages/w4/extension-br/extension-br-images.zip
+landing-page-locale,/jurnal-br,br,Como Baixar Artigos de Periódicos no Scribd — PDF Grátis,./04-all-languages/w8/jurnal-br/article.md,./04-all-languages/w8/jurnal-br/jurnal-br-images.zip
+landing-page-locale,/makalah-br,br,Como Baixar Makalah no Scribd — PDF Grátis Sem Conta,./04-all-languages/w8/makalah-br/article.md,./04-all-languages/w8/makalah-br/makalah-br-images.zip
+landing-page-locale,/manuales-br,br,Como Baixar Manuais no Scribd — PDF Grátis Sem Conta,./04-all-languages/w8/manuales-br/article.md,./04-all-languages/w8/manuales-br/manuales-br-images.zip
+landing-page-locale,/memoire-br,br,Baixar Mémoire Francês do Scribd Grátis — PDF,./04-all-languages/w7/memoire-br/article.md,./04-all-languages/w7/memoire-br/memoire-br-images.zip
+landing-page-locale,/ncert-books-br,br,Livros NCERT em PDF pelo Scribd: Guia Grátis (2026),./04-all-languages/w11/ncert-books-br/article.md,./04-all-languages/w11/ncert-books-br/ncert-books-br-images.zip
+landing-page-locale,/research-papers-br,br,Baixar Artigos Científicos do Scribd Grátis — PDF,./04-all-languages/w7/research-papers-br/article.md,./04-all-languages/w7/research-papers-br/research-papers-br-images.zip
+landing-page-locale,/sans-carte-br,br,Scribd Sem Cartão de Crédito: Baixar Grátis em PDF,./04-all-languages/w11/sans-carte-br/article.md,./04-all-languages/w11/sans-carte-br/sans-carte-br-images.zip
+landing-page-locale,/skripsi-br,br,Baixar Skripsi no Scribd Grátis — PDF Completo,./04-all-languages/w7/skripsi-br/article.md,./04-all-languages/w7/skripsi-br/skripsi-br-images.zip
+landing-page-locale,/tesis-br,br,Baixar Tesis em Espanhol do Scribd Grátis — PDF,./04-all-languages/w7/tesis-br/article.md,./04-all-languages/w7/tesis-br/tesis-br-images.zip
+landing-page-locale,/thesis-br,br,Baixar Thesis do Scribd Grátis — Salve o PDF Completo,./04-all-languages/w7/thesis-br/article.md,./04-all-languages/w7/thesis-br/thesis-br-images.zip
+landing-page-locale,/upsc-notes-br,br,Notas UPSC em PDF pelo Scribd: Baixar Grátis (2026),./04-all-languages/w11/upsc-notes-br/article.md,./04-all-languages/w11/upsc-notes-br/upsc-notes-br-images.zip
+landing-page-locale,/windows-br,br,Scribd Downloader para Windows: Sem Instalar Nada,./04-all-languages/w4/windows-br/article.md,./04-all-languages/w4/windows-br/windows-br-images.zip
+landing-page-locale,alternatives-br,br,Alternativas ao Scribd Downloader — Opções Grátis e Pagas,./04-all-languages/w3/alternatives-br/article.md,./04-all-languages/w3/alternatives-br/alternatives-br-images.zip
+landing-page-locale,android-br,br,Baixar Documentos do Scribd no Android — Sem App,./04-all-languages/w3/android-br/article.md,./04-all-languages/w3/android-br/android-br-images.zip
+landing-page-locale,books-br,br,"Livros no Scribd: Baixar, Ler e Decidir",./04-all-languages/w6/books-br/article.md,./04-all-languages/w6/books-br/books-br-images.zip
+landing-page-locale,bot-telegram-br,br,Baixar Scribd pelo Telegram: Vale a Pena?,./04-all-languages/w6/bot-telegram-br/article.md,./04-all-languages/w6/bot-telegram-br/bot-telegram-br-images.zip
+landing-page-locale,cancel-scribd-br,br,Como Cancelar Sua Assinatura do Scribd: Web e Celular,./04-all-languages/w9/cancel-scribd-br/article.md,./04-all-languages/w9/cancel-scribd-br/cancel-scribd-br-images.zip
+landing-page-locale,convertir-pdf-br,br,Converter Scribd em PDF Grátis: Guia Simples e Honesto,./04-all-languages/w5/convertir-pdf-br/article.md,./04-all-languages/w5/convertir-pdf-br/convertir-pdf-br-images.zip
+landing-page-locale,descargar-script-br,br,Script para Baixar do Scribd: A Versão Honesta,./04-all-languages/w10/descargar-script-br/article.md,./04-all-languages/w10/descargar-script-br/descargar-script-br-images.zip
+landing-page-locale,dmca-br,br,DMCA: Como Enviar um Aviso de Remoção de Direitos,./04-all-languages/w9/dmca-br/article.md,./04-all-languages/w9/dmca-br/dmca-br-images.zip
+landing-page-locale,ebook-br,br,Como Baixar Ebooks do Scribd: Guia Grátis,./04-all-languages/w6/ebook-br/article.md,./04-all-languages/w6/ebook-br/ebook-br-images.zip
+landing-page-locale,ebooks-br,br,"Baixar Ebooks do Scribd Grátis: Achar, Salvar e Ler Offline",./04-all-languages/w5/ebooks-br/article.md,./04-all-languages/w5/ebooks-br/ebooks-br-images.zip
+landing-page-locale,epub-br,br,Documento Scribd em EPUB: Método Grátis Que Funciona,./04-all-languages/w5/epub-br/article.md,./04-all-languages/w5/epub-br/epub-br-images.zip
+landing-page-locale,fair-use-br,br,Uso Justo e Baixar Documentos do Scribd: Guia Simples,./04-all-languages/w9/fair-use-br/article.md,./04-all-languages/w9/fair-use-br/fair-use-br-images.zip
+landing-page-locale,faq-br,br,"FAQ do Downloader Scribd: Custo, Formatos e Segurança",./04-all-languages/w9/faq-br/article.md,./04-all-languages/w9/faq-br/faq-br-images.zip
+landing-page-locale,free-trial-br,br,Teste Grátis do Scribd: Como Funciona e a Alternativa Grátis,./04-all-languages/w9/free-trial-br/article.md,./04-all-languages/w9/free-trial-br/free-trial-br-images.zip
+landing-page-locale,iphone-br,br,Baixar Documentos do Scribd no iPhone — Sem App,./04-all-languages/w3/iphone-br/article.md,./04-all-languages/w3/iphone-br/iphone-br-images.zip
+landing-page-locale,libros-epub-br,br,Baixar Livros do Scribd em EPUB Grátis: Método Honesto,./04-all-languages/w5/libros-epub-br/article.md,./04-all-languages/w5/libros-epub-br/libros-epub-br-images.zip
+landing-page-locale,not-working-br,br,Scribd Downloader Não Funciona? 7 Correções que Resolvem,./04-all-languages/w3/not-working-br/article.md,./04-all-languages/w3/not-working-br/not-working-br-images.zip
+landing-page-locale,partitions-br,br,Baixar Partituras Grátis do Scribd: Guia Fácil em PDF,./04-all-languages/w5/partitions-br/article.md,./04-all-languages/w5/partitions-br/partitions-br-images.zip
+landing-page-locale,ppt-br,br,O que é um arquivo PPT? Abrir e editar slides do Scribd,./04-all-languages/w3/ppt-br/article.md,./04-all-languages/w3/ppt-br/ppt-br-images.zip
+landing-page-locale,presentaciones-br,br,Baixar Apresentações do Scribd: Guia Prático,./04-all-languages/w6/presentaciones-br/article.md,./04-all-languages/w6/presentaciones-br/presentaciones-br-images.zip
+landing-page-locale,presentations-br,br,Baixar Apresentações do Scribd para Estudar e Apresentar,./04-all-languages/w3/presentations-br/article.md,./04-all-languages/w3/presentations-br/presentations-br-images.zip
+landing-page-locale,reddit-br,br,Scribd Downloader Reddit: Perguntas Reais Respondidas,./04-all-languages/w10/reddit-br/article.md,./04-all-languages/w10/reddit-br/reddit-br-images.zip
+landing-page-locale,safety-br,br,Downloader do Scribd É Seguro? Resposta Honesta,./04-all-languages/w3/safety-br/article.md,./04-all-languages/w3/safety-br/safety-br-images.zip
+landing-page-locale,sheet-music-br,br,Baixar Partituras do Scribd Grátis em PDF: Guia Fácil,./04-all-languages/w5/sheet-music-br/article.md,./04-all-languages/w5/sheet-music-br/sheet-music-br-images.zip
+landing-page-locale,slideshare-downloader-br,br,SlideShare Downloader: O Que Funciona de Verdade,./04-all-languages/w10/slideshare-downloader-br/article.md,./04-all-languages/w10/slideshare-downloader-br/slideshare-downloader-br-images.zip
+landing-page-locale,studocu-downloader-br,br,StuDocu Downloader: A Resposta Honesta (2026),./04-all-languages/w10/studocu-downloader-br/article.md,./04-all-languages/w10/studocu-downloader-br/studocu-downloader-br-images.zip
+landing-page-locale,telegram-bot-br,br,Bot Telegram para Scribd: Como Funciona,./04-all-languages/w6/telegram-bot-br/article.md,./04-all-languages/w6/telegram-bot-br/telegram-bot-br-images.zip
+landing-page-locale,word-br,br,Como Passar Documento do Scribd para Word Grátis,./04-all-languages/w3/word-br/article.md,./04-all-languages/w3/word-br/word-br-images.zip
+landing-page-locale,/`,de,Scribd Kostenlos Downloaden — Dokumente als PDF Speichern,./04-all-languages/w1-homepage/homepage-de/article.md,./04-all-languages/w1-homepage/homepage-de/homepage-de-images.zip
+landing-page-locale,/apk-de,de,Scribd Downloader APK: Wahrheit und sichere Methode,./04-all-languages/w4/apk-de/article.md,./04-all-languages/w4/apk-de/apk-de-images.zip
+landing-page-locale,/app-de,de,Scribd Downloader App: Brauchen Sie eine?,./04-all-languages/w4/app-de/article.md,./04-all-languages/w4/app-de/app-de-images.zip
+landing-page-locale,/apuntes-de,de,Apuntes von Scribd kostenlos als PDF herunterladen,./04-all-languages/w8/apuntes-de/article.md,./04-all-languages/w8/apuntes-de/apuntes-de-images.zip
+landing-page-locale,/blog/post-3-de,de,Wissenschaftliche Artikel Offline Lesen: Geräte & Workflow,./04-all-languages/w2-blogs/post-3-de/article.md,./04-all-languages/w2-blogs/post-3-de/post-3-de-images.zip
+landing-page-locale,/blog/post-4-de,de,Scribd PDF Formatierungsprobleme: Ursachen & Lösungen,./04-all-languages/w2-blogs/post-4-de/article.md,./04-all-languages/w2-blogs/post-4-de/post-4-de-images.zip
+landing-page-locale,/cours-de,de,Cours von Scribd kostenlos als PDF herunterladen,./04-all-languages/w8/cours-de/article.md,./04-all-languages/w8/cours-de/cours-de-images.zip
+landing-page-locale,/desktop-de,de,Scribd Downloader Desktop: Anleitung für PC,./04-all-languages/w4/desktop-de/article.md,./04-all-languages/w4/desktop-de/desktop-de-images.zip
+landing-page-locale,/examenes-de,de,Exámenes von Scribd kostenlos als PDF herunterladen,./04-all-languages/w8/examenes-de/article.md,./04-all-languages/w8/examenes-de/examenes-de-images.zip
+landing-page-locale,/extension-de,de,Scribd Downloader Chrome Erweiterung: Nötig?,./04-all-languages/w4/extension-de/article.md,./04-all-languages/w4/extension-de/extension-de-images.zip
+landing-page-locale,/jurnal-de,de,Wissenschaftliche Artikel von Scribd kostenlos als PDF laden,./04-all-languages/w8/jurnal-de/article.md,./04-all-languages/w8/jurnal-de/jurnal-de-images.zip
+landing-page-locale,/makalah-de,de,Makalah von Scribd kostenlos als PDF herunterladen,./04-all-languages/w8/makalah-de/article.md,./04-all-languages/w8/makalah-de/makalah-de-images.zip
+landing-page-locale,/manuales-de,de,Manuales von Scribd kostenlos als PDF herunterladen,./04-all-languages/w8/manuales-de/article.md,./04-all-languages/w8/manuales-de/manuales-de-images.zip
+landing-page-locale,/memoire-de,de,Französisches Mémoire von Scribd herunterladen — PDF,./04-all-languages/w7/memoire-de/article.md,./04-all-languages/w7/memoire-de/memoire-de-images.zip
+landing-page-locale,/ncert-books-de,de,NCERT-Bücher als PDF über Scribd: Gratis-Guide (2026),./04-all-languages/w11/ncert-books-de/article.md,./04-all-languages/w11/ncert-books-de/ncert-books-de-images.zip
+landing-page-locale,/research-papers-de,de,Research Paper von Scribd herunterladen — PDF gratis,./04-all-languages/w7/research-papers-de/article.md,./04-all-languages/w7/research-papers-de/research-papers-de-images.zip
+landing-page-locale,/sans-carte-de,de,Scribd ohne Kreditkarte: Gratis PDF Download,./04-all-languages/w11/sans-carte-de/article.md,./04-all-languages/w11/sans-carte-de/sans-carte-de-images.zip
+landing-page-locale,/skripsi-de,de,Skripsi von Scribd kostenlos als PDF herunterladen,./04-all-languages/w7/skripsi-de/article.md,./04-all-languages/w7/skripsi-de/skripsi-de-images.zip
+landing-page-locale,/tesis-de,de,Spanische Tesis von Scribd herunterladen — PDF gratis,./04-all-languages/w7/tesis-de/article.md,./04-all-languages/w7/tesis-de/tesis-de-images.zip
+landing-page-locale,/thesis-de,de,Thesis von Scribd herunterladen — PDF gratis,./04-all-languages/w7/thesis-de/article.md,./04-all-languages/w7/thesis-de/thesis-de-images.zip
+landing-page-locale,/upsc-notes-de,de,UPSC-Notizen als PDF via Scribd: Gratis Download (2026),./04-all-languages/w11/upsc-notes-de/article.md,./04-all-languages/w11/upsc-notes-de/upsc-notes-de-images.zip
+landing-page-locale,/windows-de,de,Scribd Downloader für Windows: Ohne Installation,./04-all-languages/w4/windows-de/article.md,./04-all-languages/w4/windows-de/windows-de-images.zip
+landing-page-locale,alternatives-de,de,Scribd Downloader Alternativen — Gratis vs. Bezahlt,./04-all-languages/w3/alternatives-de/article.md,./04-all-languages/w3/alternatives-de/alternatives-de-images.zip
+landing-page-locale,android-de,de,Scribd Dokumente auf Android laden — ohne App,./04-all-languages/w3/android-de/article.md,./04-all-languages/w3/android-de/android-de-images.zip
+landing-page-locale,books-de,de,Scribd Bücher Downloaden und Lesen: Guide,./04-all-languages/w6/books-de/article.md,./04-all-languages/w6/books-de/books-de-images.zip
+landing-page-locale,bot-telegram-de,de,Scribd über Telegram: Lohnt sich das?,./04-all-languages/w6/bot-telegram-de/article.md,./04-all-languages/w6/bot-telegram-de/bot-telegram-de-images.zip
+landing-page-locale,cancel-scribd-de,de,"Scribd-Abo Kündigen: Web, iPhone & Android",./04-all-languages/w9/cancel-scribd-de/article.md,./04-all-languages/w9/cancel-scribd-de/cancel-scribd-de-images.zip
+landing-page-locale,convertir-pdf-de,de,Scribd in PDF Umwandeln Kostenlos: Einfache Anleitung,./04-all-languages/w5/convertir-pdf-de/article.md,./04-all-languages/w5/convertir-pdf-de/convertir-pdf-de-images.zip
+landing-page-locale,descargar-script-de,de,Scribd-Skript zum Downloaden: Die Ehrliche Sicht,./04-all-languages/w10/descargar-script-de/article.md,./04-all-languages/w10/descargar-script-de/descargar-script-de-images.zip
+landing-page-locale,dmca-de,de,DMCA: So Senden Sie eine Takedown-Meldung,./04-all-languages/w9/dmca-de/article.md,./04-all-languages/w9/dmca-de/dmca-de-images.zip
+landing-page-locale,ebook-de,de,Scribd Ebooks Downloaden: Kostenlose Anleitung,./04-all-languages/w6/ebook-de/article.md,./04-all-languages/w6/ebook-de/ebook-de-images.zip
+landing-page-locale,ebooks-de,de,"Scribd Ebooks Kostenlos Downloaden: Finden, Speichern, Lesen",./04-all-languages/w5/ebooks-de/article.md,./04-all-languages/w5/ebooks-de/ebooks-de-images.zip
+landing-page-locale,epub-de,de,Scribd-Dokument als EPUB: Ehrliche Gratis-Methode,./04-all-languages/w5/epub-de/article.md,./04-all-languages/w5/epub-de/epub-de-images.zip
+landing-page-locale,fair-use-de,de,Fair Use und Scribd-Downloads: Einfach Erklärt,./04-all-languages/w9/fair-use-de/article.md,./04-all-languages/w9/fair-use-de/fair-use-de-images.zip
+landing-page-locale,faq-de,de,"Scribd-Downloader FAQ: Kosten, Formate & Sicherheit",./04-all-languages/w9/faq-de/article.md,./04-all-languages/w9/faq-de/faq-de-images.zip
+landing-page-locale,free-trial-de,de,Scribd Gratis-Test: Ehrlich Erklärt & Gratis-Alternative,./04-all-languages/w9/free-trial-de/article.md,./04-all-languages/w9/free-trial-de/free-trial-de-images.zip
+landing-page-locale,iphone-de,de,Scribd Dokumente auf dem iPhone laden — ohne App,./04-all-languages/w3/iphone-de/article.md,./04-all-languages/w3/iphone-de/iphone-de-images.zip
+landing-page-locale,libros-epub-de,de,Scribd-Buch als EPUB Downloaden: Ehrliche Gratis-Methode,./04-all-languages/w5/libros-epub-de/article.md,./04-all-languages/w5/libros-epub-de/libros-epub-de-images.zip
+landing-page-locale,not-working-de,de,"Scribd Downloader geht nicht? 7 Lösungen, die helfen",./04-all-languages/w3/not-working-de/article.md,./04-all-languages/w3/not-working-de/not-working-de-images.zip
+landing-page-locale,partitions-de,de,Noten Gratis von Scribd Downloaden: Einfache PDF-Anleitung,./04-all-languages/w5/partitions-de/article.md,./04-all-languages/w5/partitions-de/partitions-de-images.zip
+landing-page-locale,ppt-de,de,Was ist eine PPT-Datei? Scribd-Folien öffnen & bearbeiten,./04-all-languages/w3/ppt-de/article.md,./04-all-languages/w3/ppt-de/ppt-de-images.zip
+landing-page-locale,presentaciones-de,de,Scribd Präsentationen Downloaden: Anleitung,./04-all-languages/w6/presentaciones-de/article.md,./04-all-languages/w6/presentaciones-de/presentaciones-de-images.zip
+landing-page-locale,presentations-de,de,Scribd-Präsentationen downloaden zum Lernen & Präsentieren,./04-all-languages/w3/presentations-de/article.md,./04-all-languages/w3/presentations-de/presentations-de-images.zip
+landing-page-locale,reddit-de,de,"Scribd Downloader Reddit: Echte Fragen, Echte Antworten",./04-all-languages/w10/reddit-de/article.md,./04-all-languages/w10/reddit-de/reddit-de-images.zip
+landing-page-locale,safety-de,de,Ist dieser Scribd Downloader sicher? Ehrliche Antwort,./04-all-languages/w3/safety-de/article.md,./04-all-languages/w3/safety-de/safety-de-images.zip
+landing-page-locale,sheet-music-de,de,Noten von Scribd Downloaden: Gratis PDF-Anleitung,./04-all-languages/w5/sheet-music-de/article.md,./04-all-languages/w5/sheet-music-de/sheet-music-de-images.zip
+landing-page-locale,slideshare-downloader-de,de,SlideShare Downloader: Was Wirklich Funktioniert,./04-all-languages/w10/slideshare-downloader-de/article.md,./04-all-languages/w10/slideshare-downloader-de/slideshare-downloader-de-images.zip
+landing-page-locale,studocu-downloader-de,de,StuDocu Downloader: Die Ehrliche Antwort (2026),./04-all-languages/w10/studocu-downloader-de/article.md,./04-all-languages/w10/studocu-downloader-de/studocu-downloader-de-images.zip
+landing-page-locale,telegram-bot-de,de,Telegram-Bot für Scribd: Ehrlicher Guide,./04-all-languages/w6/telegram-bot-de/article.md,./04-all-languages/w6/telegram-bot-de/telegram-bot-de-images.zip
+landing-page-locale,word-de,de,Scribd-Dokument in Word umwandeln — kostenlos,./04-all-languages/w3/word-de/article.md,./04-all-languages/w3/word-de/word-de-images.zip
+landing-page-locale,/apuntes-en,en,How to Download Apuntes Study Notes on Scribd — Free PDF,./04-all-languages/w8/apuntes-en/article.md,./04-all-languages/w8/apuntes-en/apuntes-en-images.zip
+landing-page-locale,/cours-en,en,How to Download Cours Course Notes on Scribd — Free PDF,./04-all-languages/w8/cours-en/article.md,./04-all-languages/w8/cours-en/cours-en-images.zip
+landing-page-locale,/examenes-en,en,How to Download Exámenes Exam Papers on Scribd — Free PDF,./04-all-languages/w8/examenes-en/article.md,./04-all-languages/w8/examenes-en/examenes-en-images.zip
+landing-page-locale,/jurnal-en,en,How to Download Journal Articles on Scribd Free — PDF Guide,./04-all-languages/w8/jurnal-en/article.md,./04-all-languages/w8/jurnal-en/jurnal-en-images.zip
+landing-page-locale,/makalah-en,en,How to Download Makalah on Scribd — Free PDF Guide,./04-all-languages/w8/makalah-en/article.md,./04-all-languages/w8/makalah-en/makalah-en-images.zip
+landing-page-locale,/manuales-en,en,How to Download Manuales Guides on Scribd — Free PDF,./04-all-languages/w8/manuales-en/article.md,./04-all-languages/w8/manuales-en/manuales-en-images.zip
+landing-page-locale,/memoire-en,en,Download French Mémoire from Scribd Free — Full PDF,./04-all-languages/w7/memoire-en/article.md,./04-all-languages/w7/memoire-en/memoire-en-images.zip
+landing-page-locale,/sans-carte-en,en,Download Scribd PDFs Without a Credit Card — Free,./04-all-languages/w11/sans-carte-en/article.md,./04-all-languages/w11/sans-carte-en/sans-carte-en-images.zip
+landing-page-locale,/skripsi-en,en,Download Indonesian Skripsi from Scribd Free — PDF,./04-all-languages/w7/skripsi-en/article.md,./04-all-languages/w7/skripsi-en/skripsi-en-images.zip
+landing-page-locale,/tesis-en,en,Download Spanish Tesis from Scribd Free — Full PDF,./04-all-languages/w7/tesis-en/article.md,./04-all-languages/w7/tesis-en/tesis-en-images.zip
+landing-page-locale,bot-telegram-en,en,Download Scribd via Telegram: Worth It?,./04-all-languages/w6/bot-telegram-en/article.md,./04-all-languages/w6/bot-telegram-en/bot-telegram-en-images.zip
+landing-page-locale,convertir-pdf-en,en,Convert Scribd to PDF Free: Simple Guide That Works,./04-all-languages/w5/convertir-pdf-en/article.md,./04-all-languages/w5/convertir-pdf-en/convertir-pdf-en-images.zip
+landing-page-locale,descargar-script-en,en,Scribd Downloader Script: The Honest Version,./04-all-languages/w10/descargar-script-en/article.md,./04-all-languages/w10/descargar-script-en/descargar-script-en-images.zip
+landing-page-locale,ebook-en,en,Download Scribd Ebooks Free: A Simple Guide,./04-all-languages/w6/ebook-en/article.md,./04-all-languages/w6/ebook-en/ebook-en-images.zip
+landing-page-locale,ebooks-en,en,"Download Scribd Ebooks Free: Find, Save, Read Offline",./04-all-languages/w5/ebooks-en/article.md,./04-all-languages/w5/ebooks-en/ebooks-en-images.zip
+landing-page-locale,libros-epub-en,en,Download Scribd Books in EPUB Free: Honest Method,./04-all-languages/w5/libros-epub-en/article.md,./04-all-languages/w5/libros-epub-en/libros-epub-en-images.zip
+landing-page-locale,partitions-en,en,Download Music Scores from Scribd Free: Easy PDF Guide,./04-all-languages/w5/partitions-en/article.md,./04-all-languages/w5/partitions-en/partitions-en-images.zip
+landing-page-locale,presentaciones-en,en,Download Scribd Presentations: Study & Present,./04-all-languages/w6/presentaciones-en/article.md,./04-all-languages/w6/presentaciones-en/presentaciones-en-images.zip
+landing-page-locale,/`,es,Descargar de Scribd Gratis — Guarda Documentos en PDF,./04-all-languages/w1-homepage/homepage-es/article.md,./04-all-languages/w1-homepage/homepage-es/homepage-es-images.zip
+landing-page-locale,/apk-es,es,Scribd Downloader APK: La Verdad y la Forma Segura,./04-all-languages/w4/apk-es/article.md,./04-all-languages/w4/apk-es/apk-es-images.zip
+landing-page-locale,/app-es,es,Aplicación Scribd Downloader: ¿La Necesitas?,./04-all-languages/w4/app-es/article.md,./04-all-languages/w4/app-es/app-es-images.zip
+landing-page-locale,/blog/post-3-es,es,Leer Artículos Académicos sin Internet: Guía Práctica,./04-all-languages/w2-blogs/post-3-es/article.md,./04-all-languages/w2-blogs/post-3-es/post-3-es-images.zip
+landing-page-locale,/blog/post-4-es,es,Problemas de Formato en PDF de Scribd: Causas y Soluciones,./04-all-languages/w2-blogs/post-4-es/article.md,./04-all-languages/w2-blogs/post-4-es/post-4-es-images.zip
+landing-page-locale,/cours-es,es,Cómo Descargar Cours de Scribd — PDF Gratis,./04-all-languages/w8/cours-es/article.md,./04-all-languages/w8/cours-es/cours-es-images.zip
+landing-page-locale,/desktop-es,es,Scribd Downloader Desktop: Guía para PC,./04-all-languages/w4/desktop-es/article.md,./04-all-languages/w4/desktop-es/desktop-es-images.zip
+landing-page-locale,/extension-es,es,Extensión Scribd Downloader Chrome: ¿La Necesitas?,./04-all-languages/w4/extension-es/article.md,./04-all-languages/w4/extension-es/extension-es-images.zip
+landing-page-locale,/jurnal-es,es,Cómo Descargar Artículos de Revistas de Scribd — PDF Gratis,./04-all-languages/w8/jurnal-es/article.md,./04-all-languages/w8/jurnal-es/jurnal-es-images.zip
+landing-page-locale,/makalah-es,es,Cómo Descargar Makalah de Scribd — PDF Gratis Sin Cuenta,./04-all-languages/w8/makalah-es/article.md,./04-all-languages/w8/makalah-es/makalah-es-images.zip
+landing-page-locale,/memoire-es,es,Descargar Mémoire Francés de Scribd Gratis — PDF,./04-all-languages/w7/memoire-es/article.md,./04-all-languages/w7/memoire-es/memoire-es-images.zip
+landing-page-locale,/ncert-books-es,es,Libros NCERT en PDF por Scribd: Guía Gratis (2026),./04-all-languages/w11/ncert-books-es/article.md,./04-all-languages/w11/ncert-books-es/ncert-books-es-images.zip
+landing-page-locale,/research-papers-es,es,Descargar Artículos de Investigación de Scribd — PDF,./04-all-languages/w7/research-papers-es/article.md,./04-all-languages/w7/research-papers-es/research-papers-es-images.zip
+landing-page-locale,/sans-carte-es,es,Scribd Sin Tarjeta: Descargar Gratis en PDF,./04-all-languages/w11/sans-carte-es/article.md,./04-all-languages/w11/sans-carte-es/sans-carte-es-images.zip
+landing-page-locale,/skripsi-es,es,Descargar Skripsi de Scribd Gratis — PDF Completo,./04-all-languages/w7/skripsi-es/article.md,./04-all-languages/w7/skripsi-es/skripsi-es-images.zip
+landing-page-locale,/thesis-es,es,Descargar Thesis en Inglés de Scribd Gratis — PDF,./04-all-languages/w7/thesis-es/article.md,./04-all-languages/w7/thesis-es/thesis-es-images.zip
+landing-page-locale,/upsc-notes-es,es,Apuntes UPSC en PDF por Scribd: Descargar Gratis (2026),./04-all-languages/w11/upsc-notes-es/article.md,./04-all-languages/w11/upsc-notes-es/upsc-notes-es-images.zip
+landing-page-locale,/windows-es,es,Scribd Downloader para Windows: Sin Instalar,./04-all-languages/w4/windows-es/article.md,./04-all-languages/w4/windows-es/windows-es-images.zip
+landing-page-locale,books-es,es,Libros de Scribd: Guía para Descargar y Leer,./04-all-languages/w6/books-es/article.md,./04-all-languages/w6/books-es/books-es-images.zip
+landing-page-locale,bot-telegram-es,es,Descargar Scribd por Telegram: ¿Vale la Pena?,./04-all-languages/w6/bot-telegram-es/article.md,./04-all-languages/w6/bot-telegram-es/bot-telegram-es-images.zip
+landing-page-locale,cancel-scribd-es,es,Cómo Cancelar tu Suscripción de Scribd Paso a Paso,./04-all-languages/w9/cancel-scribd-es/article.md,./04-all-languages/w9/cancel-scribd-es/cancel-scribd-es-images.zip
+landing-page-locale,convertir-pdf-es,es,Convertir Scribd en PDF Gratis: Guía Simple y Honesta,./04-all-languages/w5/convertir-pdf-es/article.md,./04-all-languages/w5/convertir-pdf-es/convertir-pdf-es-images.zip
+landing-page-locale,dmca-es,es,DMCA: Cómo Presentar un Aviso de Eliminación,./04-all-languages/w9/dmca-es/article.md,./04-all-languages/w9/dmca-es/dmca-es-images.zip
+landing-page-locale,ebook-es,es,Descargar Ebooks de Scribd: Guía Gratis,./04-all-languages/w6/ebook-es/article.md,./04-all-languages/w6/ebook-es/ebook-es-images.zip
+landing-page-locale,ebooks-es,es,"Descargar Ebooks de Scribd Gratis: Buscar, Guardar y Leer",./04-all-languages/w5/ebooks-es/article.md,./04-all-languages/w5/ebooks-es/ebooks-es-images.zip
+landing-page-locale,epub-es,es,Documento Scribd en EPUB: Método Gratis Que Funciona,./04-all-languages/w5/epub-es/article.md,./04-all-languages/w5/epub-es/epub-es-images.zip
+landing-page-locale,fair-use-es,es,Uso Justo y Descargar Documentos de Scribd: Guía Clara,./04-all-languages/w9/fair-use-es/article.md,./04-all-languages/w9/fair-use-es/fair-use-es-images.zip
+landing-page-locale,faq-es,es,"FAQ del Descargador de Scribd: Costo, Formatos y Seguridad",./04-all-languages/w9/faq-es/article.md,./04-all-languages/w9/faq-es/faq-es-images.zip
+landing-page-locale,free-trial-es,es,Prueba Gratis de Scribd Explicada: Cómo Funciona,./04-all-languages/w9/free-trial-es/article.md,./04-all-languages/w9/free-trial-es/free-trial-es-images.zip
+landing-page-locale,partitions-es,es,Descargar Partituras Gratis de Scribd: Guía Fácil PDF,./04-all-languages/w5/partitions-es/article.md,./04-all-languages/w5/partitions-es/partitions-es-images.zip
+landing-page-locale,ppt-es,es,¿Qué es un archivo PPT? Abrir diapositivas de Scribd,./04-all-languages/w3/ppt-es/article.md,./04-all-languages/w3/ppt-es/ppt-es-images.zip
+landing-page-locale,presentations-es,es,Descargar Presentaciones de Scribd: Estudiar e Imprimir,./04-all-languages/w3/presentations-es/article.md,./04-all-languages/w3/presentations-es/presentations-es-images.zip
+landing-page-locale,reddit-es,es,"Scribd Downloader Reddit: Preguntas Reales, Respuestas",./04-all-languages/w10/reddit-es/article.md,./04-all-languages/w10/reddit-es/reddit-es-images.zip
+landing-page-locale,sheet-music-es,es,Descargar Partituras de Scribd Gratis en PDF: Guía Fácil,./04-all-languages/w5/sheet-music-es/article.md,./04-all-languages/w5/sheet-music-es/sheet-music-es-images.zip
+landing-page-locale,slideshare-downloader-es,es,Descargar SlideShare: Qué Funciona de Verdad,./04-all-languages/w10/slideshare-downloader-es/article.md,./04-all-languages/w10/slideshare-downloader-es/slideshare-downloader-es-images.zip
+landing-page-locale,studocu-downloader-es,es,Descargar StuDocu: La Respuesta Honesta (2026),./04-all-languages/w10/studocu-downloader-es/article.md,./04-all-languages/w10/studocu-downloader-es/studocu-downloader-es-images.zip
+landing-page-locale,telegram-bot-es,es,Bot de Telegram para Scribd: Guía Honesta,./04-all-languages/w6/telegram-bot-es/article.md,./04-all-languages/w6/telegram-bot-es/telegram-bot-es-images.zip
+landing-page-locale,/`,fr,Télécharger Scribd Gratuitement — Enregistrez en PDF,./04-all-languages/w1-homepage/homepage-fr/article.md,./04-all-languages/w1-homepage/homepage-fr/homepage-fr-images.zip
+landing-page-locale,/apk-fr,fr,Scribd Downloader APK : La Vérité et la Méthode Sûre,./04-all-languages/w4/apk-fr/article.md,./04-all-languages/w4/apk-fr/apk-fr-images.zip
+landing-page-locale,/app-fr,fr,Application Scribd Downloader : Faut-il l'Installer ?,./04-all-languages/w4/app-fr/article.md,./04-all-languages/w4/app-fr/app-fr-images.zip
+landing-page-locale,/apuntes-fr,fr,Télécharger des Apuntes sur Scribd — PDF Gratuit,./04-all-languages/w8/apuntes-fr/article.md,./04-all-languages/w8/apuntes-fr/apuntes-fr-images.zip
+landing-page-locale,/blog/post-3-fr,fr,Lire des Articles Scientifiques Hors Ligne : Guide,./04-all-languages/w2-blogs/post-3-fr/article.md,./04-all-languages/w2-blogs/post-3-fr/post-3-fr-images.zip
+landing-page-locale,/blog/post-4-fr,fr,"PDF Scribd : Problèmes de Mise en Forme, Causes et Solutions",./04-all-languages/w2-blogs/post-4-fr/article.md,./04-all-languages/w2-blogs/post-4-fr/post-4-fr-images.zip
+landing-page-locale,/desktop-fr,fr,Scribd Downloader Desktop : Guide Ordinateur,./04-all-languages/w4/desktop-fr/article.md,./04-all-languages/w4/desktop-fr/desktop-fr-images.zip
+landing-page-locale,/examenes-fr,fr,Télécharger des Exámenes sur Scribd — Sujets PDF Gratuits,./04-all-languages/w8/examenes-fr/article.md,./04-all-languages/w8/examenes-fr/examenes-fr-images.zip
+landing-page-locale,/extension-fr,fr,Extension Scribd Downloader Chrome : Utile ?,./04-all-languages/w4/extension-fr/article.md,./04-all-languages/w4/extension-fr/extension-fr-images.zip
+landing-page-locale,/jurnal-fr,fr,Télécharger des Articles de Revues sur Scribd — PDF Gratuit,./04-all-languages/w8/jurnal-fr/article.md,./04-all-languages/w8/jurnal-fr/jurnal-fr-images.zip
+landing-page-locale,/makalah-fr,fr,Télécharger des Makalah sur Scribd en PDF Gratuit,./04-all-languages/w8/makalah-fr/article.md,./04-all-languages/w8/makalah-fr/makalah-fr-images.zip
+landing-page-locale,/manuales-fr,fr,Télécharger des Manuels sur Scribd — PDF Gratuit,./04-all-languages/w8/manuales-fr/article.md,./04-all-languages/w8/manuales-fr/manuales-fr-images.zip
+landing-page-locale,/ncert-books-fr,fr,Manuels NCERT en PDF via Scribd : Guide Gratuit (2026),./04-all-languages/w11/ncert-books-fr/article.md,./04-all-languages/w11/ncert-books-fr/ncert-books-fr-images.zip
+landing-page-locale,/research-papers-fr,fr,Télécharger des Articles de Recherche sur Scribd — PDF,./04-all-languages/w7/research-papers-fr/article.md,./04-all-languages/w7/research-papers-fr/research-papers-fr-images.zip
+landing-page-locale,/skripsi-fr,fr,Télécharger une Skripsi sur Scribd Gratuitement — PDF,./04-all-languages/w7/skripsi-fr/article.md,./04-all-languages/w7/skripsi-fr/skripsi-fr-images.zip
+landing-page-locale,/tesis-fr,fr,Télécharger une Tesis en Espagnol sur Scribd — PDF,./04-all-languages/w7/tesis-fr/article.md,./04-all-languages/w7/tesis-fr/tesis-fr-images.zip
+landing-page-locale,/thesis-fr,fr,Télécharger une Thesis en Anglais sur Scribd — PDF,./04-all-languages/w7/thesis-fr/article.md,./04-all-languages/w7/thesis-fr/thesis-fr-images.zip
+landing-page-locale,/upsc-notes-fr,fr,Notes UPSC en PDF via Scribd : Télécharger Gratuit (2026),./04-all-languages/w11/upsc-notes-fr/article.md,./04-all-languages/w11/upsc-notes-fr/upsc-notes-fr-images.zip
+landing-page-locale,/windows-fr,fr,Scribd Downloader pour Windows : Sans Installer,./04-all-languages/w4/windows-fr/article.md,./04-all-languages/w4/windows-fr/windows-fr-images.zip
+landing-page-locale,books-fr,fr,Livres Scribd : Télécharger et Lire — Guide,./04-all-languages/w6/books-fr/article.md,./04-all-languages/w6/books-fr/books-fr-images.zip
+landing-page-locale,bot-telegram-fr,fr,Scribd via Telegram : Ça Vaut le Coup ?,./04-all-languages/w6/bot-telegram-fr/article.md,./04-all-languages/w6/bot-telegram-fr/bot-telegram-fr-images.zip
+landing-page-locale,cancel-scribd-fr,fr,Comment Annuler Votre Abonnement Scribd : Guide,./04-all-languages/w9/cancel-scribd-fr/article.md,./04-all-languages/w9/cancel-scribd-fr/cancel-scribd-fr-images.zip
+landing-page-locale,descargar-script-fr,fr,Script pour Télécharger Scribd : Avis Honnête,./04-all-languages/w10/descargar-script-fr/article.md,./04-all-languages/w10/descargar-script-fr/descargar-script-fr-images.zip
+landing-page-locale,dmca-fr,fr,DMCA : Comment Envoyer un Avis de Retrait,./04-all-languages/w9/dmca-fr/article.md,./04-all-languages/w9/dmca-fr/dmca-fr-images.zip
+landing-page-locale,ebook-fr,fr,Télécharger un Ebook Scribd : Guide Gratuit,./04-all-languages/w6/ebook-fr/article.md,./04-all-languages/w6/ebook-fr/ebook-fr-images.zip
+landing-page-locale,epub-fr,fr,Document Scribd en EPUB : la Méthode Gratuite Qui Marche,./04-all-languages/w5/epub-fr/article.md,./04-all-languages/w5/epub-fr/epub-fr-images.zip
+landing-page-locale,fair-use-fr,fr,Usage Équitable et Documents Scribd : Guide Simple,./04-all-languages/w9/fair-use-fr/article.md,./04-all-languages/w9/fair-use-fr/fair-use-fr-images.zip
+landing-page-locale,faq-fr,fr,"FAQ du Téléchargeur Scribd : Coût, Formats et Sécurité",./04-all-languages/w9/faq-fr/article.md,./04-all-languages/w9/faq-fr/faq-fr-images.zip
+landing-page-locale,free-trial-fr,fr,Essai Gratuit Scribd Expliqué : Comment Ça Marche,./04-all-languages/w9/free-trial-fr/article.md,./04-all-languages/w9/free-trial-fr/free-trial-fr-images.zip
+landing-page-locale,libros-epub-fr,fr,Télécharger un Livre Scribd en EPUB : Méthode Honnête,./04-all-languages/w5/libros-epub-fr/article.md,./04-all-languages/w5/libros-epub-fr/libros-epub-fr-images.zip
+landing-page-locale,ppt-fr,fr,C'est quoi un fichier PPT ? Ouvrir les diapos Scribd,./04-all-languages/w3/ppt-fr/article.md,./04-all-languages/w3/ppt-fr/ppt-fr-images.zip
+landing-page-locale,presentaciones-fr,fr,Télécharger une Présentation Scribd : Guide,./04-all-languages/w6/presentaciones-fr/article.md,./04-all-languages/w6/presentaciones-fr/presentaciones-fr-images.zip
+landing-page-locale,reddit-fr,fr,Scribd Downloader Reddit : Les Vraies Questions,./04-all-languages/w10/reddit-fr/article.md,./04-all-languages/w10/reddit-fr/reddit-fr-images.zip
+landing-page-locale,sheet-music-fr,fr,Télécharger des Partitions Scribd Gratuites en PDF,./04-all-languages/w5/sheet-music-fr/article.md,./04-all-languages/w5/sheet-music-fr/sheet-music-fr-images.zip
+landing-page-locale,slideshare-downloader-fr,fr,SlideShare Downloader : Ce Qui Marche Vraiment,./04-all-languages/w10/slideshare-downloader-fr/article.md,./04-all-languages/w10/slideshare-downloader-fr/slideshare-downloader-fr-images.zip
+landing-page-locale,studocu-downloader-fr,fr,StuDocu Downloader : La Réponse Honnête (2026),./04-all-languages/w10/studocu-downloader-fr/article.md,./04-all-languages/w10/studocu-downloader-fr/studocu-downloader-fr-images.zip
+landing-page-locale,telegram-bot-fr,fr,Bot Telegram Scribd : Comment Ça Marche Vraiment,./04-all-languages/w6/telegram-bot-fr/article.md,./04-all-languages/w6/telegram-bot-fr/telegram-bot-fr-images.zip
+landing-page-locale,word-fr,fr,Passer un document Scribd en Word gratuitement,./04-all-languages/w3/word-fr/article.md,./04-all-languages/w3/word-fr/word-fr-images.zip
+landing-page-locale,/`,id,Download Scribd Gratis — Simpan Dokumen sebagai PDF,./04-all-languages/w1-homepage/homepage-id/article.md,./04-all-languages/w1-homepage/homepage-id/homepage-id-images.zip
+landing-page-locale,/apk-id,id,Scribd Downloader APK: Fakta dan Cara Aman,./04-all-languages/w4/apk-id/article.md,./04-all-languages/w4/apk-id/apk-id-images.zip
+landing-page-locale,/app-id,id,Aplikasi Scribd Downloader: Perlu Install?,./04-all-languages/w4/app-id/article.md,./04-all-languages/w4/app-id/app-id-images.zip
+landing-page-locale,/apuntes-id,id,Cara Download Apuntes di Scribd — Catatan Kuliah PDF Gratis,./04-all-languages/w8/apuntes-id/article.md,./04-all-languages/w8/apuntes-id/apuntes-id-images.zip
+landing-page-locale,/blog/post-3-id,id,Membaca Jurnal Ilmiah Offline: Perangkat & Alur Kerja,./04-all-languages/w2-blogs/post-3-id/article.md,./04-all-languages/w2-blogs/post-3-id/post-3-id-images.zip
+landing-page-locale,/blog/post-4-id,id,Masalah Format PDF Scribd: Penyebab & Cara Mengatasinya,./04-all-languages/w2-blogs/post-4-id/article.md,./04-all-languages/w2-blogs/post-4-id/post-4-id-images.zip
+landing-page-locale,/cours-id,id,Cara Download Cours di Scribd: Materi Kuliah PDF Gratis,./04-all-languages/w8/cours-id/article.md,./04-all-languages/w8/cours-id/cours-id-images.zip
+landing-page-locale,/desktop-id,id,Scribd Downloader Desktop: Panduan Komputer,./04-all-languages/w4/desktop-id/article.md,./04-all-languages/w4/desktop-id/desktop-id-images.zip
+landing-page-locale,/examenes-id,id,Cara Download Exámenes Soal Ujian di Scribd — PDF Gratis,./04-all-languages/w8/examenes-id/article.md,./04-all-languages/w8/examenes-id/examenes-id-images.zip
+landing-page-locale,/extension-id,id,Ekstensi Chrome Scribd Downloader: Perlukah?,./04-all-languages/w4/extension-id/article.md,./04-all-languages/w4/extension-id/extension-id-images.zip
+landing-page-locale,/manuales-id,id,Cara Download Manual Panduan di Scribd — PDF Gratis,./04-all-languages/w8/manuales-id/article.md,./04-all-languages/w8/manuales-id/manuales-id-images.zip
+landing-page-locale,/memoire-id,id,Cara Download Mémoire Prancis di Scribd Gratis,./04-all-languages/w7/memoire-id/article.md,./04-all-languages/w7/memoire-id/memoire-id-images.zip
+landing-page-locale,/ncert-books-id,id,Buku NCERT PDF dari Scribd: Panduan Gratis (2026),./04-all-languages/w11/ncert-books-id/article.md,./04-all-languages/w11/ncert-books-id/ncert-books-id-images.zip
+landing-page-locale,/research-papers-id,id,Cara Download Research Paper di Scribd Gratis — PDF,./04-all-languages/w7/research-papers-id/article.md,./04-all-languages/w7/research-papers-id/research-papers-id-images.zip
+landing-page-locale,/sans-carte-id,id,Scribd Tanpa Kartu Kredit: Download Gratis PDF,./04-all-languages/w11/sans-carte-id/article.md,./04-all-languages/w11/sans-carte-id/sans-carte-id-images.zip
+landing-page-locale,/tesis-id,id,Cara Download Tesis Bahasa Spanyol di Scribd Gratis,./04-all-languages/w7/tesis-id/article.md,./04-all-languages/w7/tesis-id/tesis-id-images.zip
+landing-page-locale,/thesis-id,id,Cara Download Thesis Bahasa Inggris di Scribd Gratis,./04-all-languages/w7/thesis-id/article.md,./04-all-languages/w7/thesis-id/thesis-id-images.zip
+landing-page-locale,/upsc-notes-id,id,Catatan UPSC PDF dari Scribd: Download Gratis (2026),./04-all-languages/w11/upsc-notes-id/article.md,./04-all-languages/w11/upsc-notes-id/upsc-notes-id-images.zip
+landing-page-locale,/windows-id,id,Scribd Downloader untuk Windows: Tanpa Install,./04-all-languages/w4/windows-id/article.md,./04-all-languages/w4/windows-id/windows-id-images.zip
+landing-page-locale,books-id,id,Download Buku Scribd: Panduan Gratis,./04-all-languages/w6/books-id/article.md,./04-all-languages/w6/books-id/books-id-images.zip
+landing-page-locale,cancel-scribd-id,id,Cara Membatalkan Langganan Scribd: Web & HP,./04-all-languages/w9/cancel-scribd-id/article.md,./04-all-languages/w9/cancel-scribd-id/cancel-scribd-id-images.zip
+landing-page-locale,convertir-pdf-id,id,Ubah Scribd ke PDF Gratis: Panduan Sederhana dan Jujur,./04-all-languages/w5/convertir-pdf-id/article.md,./04-all-languages/w5/convertir-pdf-id/convertir-pdf-id-images.zip
+landing-page-locale,descargar-script-id,id,Script Download Scribd: Versi Jujurnya,./04-all-languages/w10/descargar-script-id/article.md,./04-all-languages/w10/descargar-script-id/descargar-script-id-images.zip
+landing-page-locale,dmca-id,id,DMCA: Cara Mengirim Pemberitahuan Takedown,./04-all-languages/w9/dmca-id/article.md,./04-all-languages/w9/dmca-id/dmca-id-images.zip
+landing-page-locale,ebooks-id,id,"Download Ebook Scribd Gratis: Cari, Simpan, Baca Offline",./04-all-languages/w5/ebooks-id/article.md,./04-all-languages/w5/ebooks-id/ebooks-id-images.zip
+landing-page-locale,epub-id,id,Dokumen Scribd ke EPUB: Cara Gratis yang Jujur,./04-all-languages/w5/epub-id/article.md,./04-all-languages/w5/epub-id/epub-id-images.zip
+landing-page-locale,fair-use-id,id,Penggunaan Wajar dan Dokumen Scribd: Panduan Sederhana,./04-all-languages/w9/fair-use-id/article.md,./04-all-languages/w9/fair-use-id/fair-use-id-images.zip
+landing-page-locale,faq-id,id,"FAQ Pengunduh Scribd: Biaya, Format & Keamanan",./04-all-languages/w9/faq-id/article.md,./04-all-languages/w9/faq-id/faq-id-images.zip
+landing-page-locale,free-trial-id,id,Uji Coba Gratis Scribd: Cara Kerja & Alternatif Gratis,./04-all-languages/w9/free-trial-id/article.md,./04-all-languages/w9/free-trial-id/free-trial-id-images.zip
+landing-page-locale,libros-epub-id,id,Download Buku Scribd ke EPUB Gratis: Cara Jujur,./04-all-languages/w5/libros-epub-id/article.md,./04-all-languages/w5/libros-epub-id/libros-epub-id-images.zip
+landing-page-locale,partitions-id,id,Download Notasi Gratis dari Scribd: Panduan PDF Mudah,./04-all-languages/w5/partitions-id/article.md,./04-all-languages/w5/partitions-id/partitions-id-images.zip
+landing-page-locale,presentaciones-id,id,Download Presentasi Scribd: Panduan Lengkap,./04-all-languages/w6/presentaciones-id/article.md,./04-all-languages/w6/presentaciones-id/presentaciones-id-images.zip
+landing-page-locale,presentations-id,id,Unduh Presentasi Scribd untuk Belajar & Presentasi,./04-all-languages/w3/presentations-id/article.md,./04-all-languages/w3/presentations-id/presentations-id-images.zip
+landing-page-locale,reddit-id,id,Scribd Downloader Reddit: Pertanyaan yang Sering Muncul,./04-all-languages/w10/reddit-id/article.md,./04-all-languages/w10/reddit-id/reddit-id-images.zip
+landing-page-locale,sheet-music-id,id,Download Not Angka Scribd Gratis ke PDF: Mudah,./04-all-languages/w5/sheet-music-id/article.md,./04-all-languages/w5/sheet-music-id/sheet-music-id-images.zip
+landing-page-locale,slideshare-downloader-id,id,SlideShare Downloader: Cara yang Benar-Benar Bisa,./04-all-languages/w10/slideshare-downloader-id/article.md,./04-all-languages/w10/slideshare-downloader-id/slideshare-downloader-id-images.zip
+landing-page-locale,studocu-downloader-id,id,StuDocu Downloader: Jawaban Jujurnya (2026),./04-all-languages/w10/studocu-downloader-id/article.md,./04-all-languages/w10/studocu-downloader-id/studocu-downloader-id-images.zip
+landing-page-locale,telegram-bot-id,id,Bot Telegram Scribd: Cara Kerja & Risiko,./04-all-languages/w6/telegram-bot-id/article.md,./04-all-languages/w6/telegram-bot-id/telegram-bot-id-images.zip
+landing-page-locale,word-id,id,Cara Mengubah Dokumen Scribd ke Word Gratis,./04-all-languages/w3/word-id/article.md,./04-all-languages/w3/word-id/word-id-images.zip
