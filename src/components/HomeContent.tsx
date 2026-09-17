@@ -13,7 +13,6 @@ import {
 } from "lucide-react";
 import { BlogPost, PageRoute, SupportedLanguage, PageContent } from "../types";
 import { t } from "../data/translations";
-import { HomeArticle } from "./HomeArticle";
 
 interface HomeContentProps {
   onNavigate: (page: PageRoute) => void;
@@ -490,9 +489,6 @@ export function HomeContent({
           </div>
         </div>
       </section>
-
-      {/* Long-form pillar article (English only for now) */}
-      {currentLang === "en" && <HomeArticle />}
     </div>
   );
 }
